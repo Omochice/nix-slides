@@ -16,6 +16,8 @@ jobs:
         with:
           persist-credentials: false
       - uses: ./.github/actions/setup-nix
+        with:
+          github-token: ${{ secrets.GITHUB_TOKEN }}
       - run: nix build .#all
       - run: |
           mkdir dist
