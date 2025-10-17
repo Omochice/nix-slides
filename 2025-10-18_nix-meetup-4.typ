@@ -386,5 +386,5 @@ https://github.com/Omochice/devbox-devcontainer-dood
   - Nixをおしごとで使いたいので採用事例を増やしたいよ
   - devboxなら初見でもやれそうな見た目をしてるので導入しやすいかも
     - #strike[あわよくば沼に引き摺り込みましょう]
-  - #strike[devcontaienrわからん]
+  - #strike[devcontainerわからん]
 ]
