@@ -149,7 +149,7 @@
   [
     #set text(size: 13pt)
     ```nix
-              default = gitlab ++ renovate ++ renovate;
+              default = gitlab ++ renovate;
             };
           in
           {
