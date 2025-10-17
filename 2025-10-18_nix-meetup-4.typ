@@ -262,7 +262,7 @@
       #set text(size: 14pt)
       ```json
       {
-        "$schema":  "https://raw.githubusercontent.com/jetify-com/devbox/0.16.0/.schema/devbox.schema.json",
+        "$schema": "https://raw.githubusercontent.com/jetify-com/devbox/0.16.0/.schema/devbox.schema.json",
         "packages": ["gh@2.76.1"],
         "shell": {
           "init_hook": [
