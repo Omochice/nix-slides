@@ -47,7 +47,8 @@
           '';
         };
         fonts = with pkgs; [
-          firge
+          ibm-plex-sans-jp
+          noto-fonts-color-emoji
         ];
         font-path = builtins.concatStringsSep ":" fonts;
         typst-compile =
